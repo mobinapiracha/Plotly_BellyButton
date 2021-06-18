@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url("../images/biodiversity.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: #f7f7f7;
+    font-family: Georgia !important;
+}
+.panel-body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
