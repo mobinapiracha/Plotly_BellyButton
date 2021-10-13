@@ -29,7 +29,7 @@ function buildMetadata(sample) {
     PANEL.html("");
     Object.entries(result).forEach(([key, value]) => {
       PANEL.append("h6").text(`${key}: ${value}`);
-    })
+    });
 
   });    
   };
